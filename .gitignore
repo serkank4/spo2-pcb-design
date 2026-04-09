@@ -1,0 +1,24 @@
+# KiCad Backups and Autosaves
+*-backups/
+*.bak
+*.bck
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+*.kicad_prl-bak
+_autosave-*
+*~
+
+# Auto-generated netlists
+*.net
+
+# FreeRouting and routing files
+*.dsn
+*.ses
+*.rules
+
+# Cache and temporary folders
+fp-info-cache/
+.DS_Store
+.history/
