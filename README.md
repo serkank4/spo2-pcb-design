@@ -1,4 +1,4 @@
-# My First KiCad Project
+# SpO2 (Pulse Oximeter) PCB Design
 
 This repository contains my very first PCB design using KiCad EDA. It was created as a learning project to understand the complete hardware design workflow, from schematic capture to generating production-ready Gerber files.
 
